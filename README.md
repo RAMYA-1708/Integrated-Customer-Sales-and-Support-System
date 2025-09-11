@@ -1,4 +1,4 @@
-# Integrated-Customer-Sales-and-Service-System
+# Integrated-Customer-Sales-and-Support-System
 *What is this project?
 This project helps manage customers from finding new ones (sales) to helping them with problems (support) using Salesforce.
 
